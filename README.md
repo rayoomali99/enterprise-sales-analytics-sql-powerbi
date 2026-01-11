@@ -126,25 +126,50 @@ This phase moves the project from descriptive analytics toward **decision-suppor
 
 Insights were translated into interactive dashboards designed for executive consumption.
 
-**Dashboards include:**
+---
 
-**Executive Summary**
-- Total sales, profit, margin, customers, and orders  
-- Sales and profit trends over time  
-- Geographic sales distribution  
-- One-page executive overview  
+## 📸 Power BI Dashboard 
 
-**Product Performance**
-- Top and bottom products by sales and profit  
-- Product line contribution analysis  
-- Revenue vs profitability comparison  
-- Identification of high-revenue, low-margin products  
+Below are selected screenshots highlighting the core analytical views and executive insights delivered through Power BI.
 
-**Customer Insight**
-- Top and bottom customers by sales and profit  
-- Order frequency distribution  
-- Customer contribution by segment  
-- Identification of high-value and low-engagement customers  
+### 🧭 Executive Summary Dashboard
+High-level overview designed for decision-makers, showing overall business health.
+
+- Total Sales, Profit, Margin, Customers, and Orders
+- Sales & profit trends over time
+- Geographic sales distribution
+- One-page executive snapshot for quick decision-making
+
+![Executive Summary](exuctive_summary.png)
+
+---
+
+### 📦 Product Performance Dashboard
+Focused on understanding product-level contribution and profitability.
+
+- Top and bottom products by sales and profit
+- Product line performance comparison
+
+![Product Performance](product_performance.png)
+
+---
+
+### 👥 Customer Insight Dashboard
+Deep dive into customer behavior and value distribution.
+
+- Montly sales trend by customer segment
+- Customer order frequency analysis
+- Segment-level contribution to revenue
+- Identification of high-value and low-engagement customers
+
+![Customer Insight](customer_insight.png)
+
+---
+
+**Note:**  
+These dashboards are fully interactive in the live Power BI report.  
+Screenshots are provided here for quick visual reference.
+
 
 Each dashboard prioritizes **clarity, business relevance, and executive usability**.
 
