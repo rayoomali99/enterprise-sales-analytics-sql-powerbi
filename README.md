@@ -1,4 +1,4 @@
-# 📊 Enterprise Sales Analytics & Executive Dashboards  
+# 📊 Enterprise SQL Sales Analytics & Executive Dashboards  
 **SQL Server → Power BI | End-to-End Business Intelligence Project**
 
 ---
